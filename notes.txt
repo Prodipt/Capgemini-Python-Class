@@ -1,0 +1,62 @@
+Python Quick Notes (Short Revision)
+🔹 Data Types
+
+Primitive: int, float, str, bool
+Non-Primitive: list, tuple, set, dict
+
+🔹 Mutable vs Immutable
+
+Mutable: list, set, dict
+Immutable: tuple, str
+
+🔹 Indexing & Slicing
+
+Index starts from 0
+
+Negative indexing allowed
+
+Slicing → [start:end:step]
+
+Strings are immutable
+
+🔹 String Methods
+
+Case → upper(), lower()
+
+Check → isupper(), islower(), isalnum(), isdigit()
+
+Search → find(), count()
+
+Modify → replace(), split(), join(), strip()
+
+🔹 List Methods
+
+append(), extend(), insert(), pop(),
+remove(), clear(), copy(),
+count(), index(), reverse(), sort()
+
+🔹 Relational Operators
+
+List/Tuple/String → Lexicographical comparison
+
+Set → Subset logic
+
+Dict → Only == and !=
+
+🔹 Typecasting
+
+list(), tuple(), set()
+
+int("1010", 2) → binary to decimal
+
+bin(10) → decimal to binary
+
+🔹 Important Concepts
+
+Assignment copies reference (for mutable)
+
+Use .copy() for new list
+
+Dict keys must be immutable
+
+Python uses automatic memory management
