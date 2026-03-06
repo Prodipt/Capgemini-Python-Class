@@ -12,3 +12,7 @@
 '''
 
 # User Defined Functions
+
+# Variable 
+# Global Variable
+# Local Variable
