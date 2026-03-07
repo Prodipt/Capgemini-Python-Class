@@ -21,3 +21,15 @@
 #     return t
 
 # print(ok_index(a=100, n =299, c=333, d =444))
+
+# def fname(x,y,z):
+#     return x
+
+# print(fname(*"abc"))
+
+
+# def fname(a,b):
+#     return b
+
+# print(fname(**{"a":1,"b":2}))
+
