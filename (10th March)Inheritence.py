@@ -57,9 +57,13 @@
 #     def area(self):
 #         print("Area of Circle : ", (3.14)*self.radius*self.radius)
 
+#     @property  
 #     def circumference(self):
 #         print("Circumference of Circle : ", 2*(3.14)*self.radius)
 
 # c1 = Circle()
 # c1.area()
-# c1.circumference()
+# c1.circumference
+
+
+# Lambda , Map  FIlter, Filter
